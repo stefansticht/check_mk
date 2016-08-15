@@ -1,4 +1,5 @@
 #!/bin/bash
+# 20160815 (c) Stefan Sticht
 
 pages_shared=""
 pages_sharing=""
